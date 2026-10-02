@@ -2,19 +2,19 @@
 
 **Desenvolvedor front-end e mobile focado em React, TypeScript e produtos explicáveis.**
 
-Construo ferramentas pequenas, públicas e testáveis para segurança, produtividade de desenvolvedores e uso responsável de IA. Cada projeto abaixo possui código aberto, documentação e demonstração funcional.
+Construo ferramentas pequenas, públicas e testáveis para segurança, produtividade de desenvolvedores e uso responsável de IA. As demos estão no GitHub Pages e cada repositório tem publicação automatizada.
 
 [Portfólio PS/LAB](https://paulo-santzs.github.io/pslab/) · [Repositórios](https://github.com/paulo-santzs?tab=repositories)
 
 ## Projetos em destaque
 
-| Projeto | Produto | Engenharia | Links |
+| Projeto | Produto | Engenharia | Demo · Código · CI |
 |---|---|---|---|
-| **LinkSentry** | Scanner explicável de sinais de risco em URLs | Motor heurístico isolado, testes e processamento local | [Demo](https://paulo-santzs.github.io/linksentry/) · [Código](https://github.com/paulo-santzs/linksentry) |
-| **DraftDeck** | Workbench local-first para READMEs profissionais | Preview, autosave, checklist e pontuação editorial | [Demo](https://paulo-santzs.github.io/draftdeck/) · [Código](https://github.com/paulo-santzs/draftdeck) |
-| **DevPulse** | Auditoria visual de portfólios públicos | GitHub API, métricas reproduzíveis e estados de erro | [Demo](https://paulo-santzs.github.io/devpulse/) · [Código](https://github.com/paulo-santzs/devpulse) |
-| **Contraponto** | Comparador de ênfase entre dois textos | Análise local baseada em regras transparentes | [Demo](https://paulo-santzs.github.io/contraponto/) · [Código](https://github.com/paulo-santzs/contraponto) |
-| **Agent Playpen** | Simulador de permissões para agentes de IA | Policy engine testado e negação por padrão | [Demo](https://paulo-santzs.github.io/agent-playpen/) · [Código](https://github.com/paulo-santzs/agent-playpen) |
+| **LinkSentry** | Scanner explicável de sinais de risco em URLs | Regras isoladas, testes e processamento local | [Demo](https://paulo-santzs.github.io/linksentry/) · [Repo](https://github.com/paulo-santzs/linksentry) · [![CI](https://github.com/paulo-santzs/linksentry/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/paulo-santzs/linksentry/actions/workflows/pages.yml) |
+| **DraftDeck** | Workbench local-first para READMEs | Preview, autosave, checklist e pontuação editorial | [Demo](https://paulo-santzs.github.io/draftdeck/) · [Repo](https://github.com/paulo-santzs/draftdeck) · [![CI](https://github.com/paulo-santzs/draftdeck/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/paulo-santzs/draftdeck/actions/workflows/pages.yml) |
+| **DevPulse** | Auditoria visual de portfólios públicos | GitHub API e métricas reproduzíveis | [Demo](https://paulo-santzs.github.io/devpulse/) · [Repo](https://github.com/paulo-santzs/devpulse) · [![CI](https://github.com/paulo-santzs/devpulse/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/paulo-santzs/devpulse/actions/workflows/pages.yml) |
+| **Contraponto** | Comparador de ênfase entre textos | Análise local com regras transparentes | [Demo](https://paulo-santzs.github.io/contraponto/) · [Repo](https://github.com/paulo-santzs/contraponto) · [![CI](https://github.com/paulo-santzs/contraponto/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/paulo-santzs/contraponto/actions/workflows/pages.yml) |
+| **Agent Playpen** | Simulador de permissões para agentes de IA | Policy engine testado e negação por padrão | [Demo](https://paulo-santzs.github.io/agent-playpen/) · [Repo](https://github.com/paulo-santzs/agent-playpen) · [![CI](https://github.com/paulo-santzs/agent-playpen/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/paulo-santzs/agent-playpen/actions/workflows/pages.yml) |
 
 ## Como trabalho
 
@@ -25,7 +25,7 @@ Construo ferramentas pequenas, públicas e testáveis para segurança, produtivi
 
 ## Stack atual
 
-`TypeScript` · `React` · `React Native` · `Vite` · `Node.js` · `GitHub Actions` · `GitHub Pages`
+`TypeScript` · `React` · `React Native` · `Vite` · `Node.js Test Runner` · `GitHub Actions` · `GitHub Pages`
 
 ## Agora
 
